@@ -103,8 +103,6 @@ This pipeline mimics real DevOps workflows used in production teams, enforcing c
 </p>
 
 
-
-
 </div>
 
 
