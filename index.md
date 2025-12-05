@@ -65,13 +65,13 @@ What I learned / would improve next time
 ## 📦 PROJECTS – DevOps & Automation
 
 ### Project 1
-### 🚀 CI Pipeline for Python Application
-<div class="project-block">
+### CI Pipeline for Python Application
 
-**Goal:**  
+**Goal**  
 Create a fully automated **Continuous Integration (CI)** pipeline using GitHub Actions to test and validate a Python application on every push or pull request.
 
-**What it does**  
+**What it does**
+
 - Automatically triggers on commits to the `main` branch  
 - Checks out the repository code  
 - Sets up Python 3.10 in the CI runner  
@@ -80,30 +80,22 @@ Create a fully automated **Continuous Integration (CI)** pipeline using GitHub A
 - Shows pass/fail results directly in the "Actions" tab  
 - Ensures consistent quality and prevents broken code from being merged  
 
-**Why this matters**  
+**Why this matters**
+
 This pipeline mimics real DevOps workflows used in production teams, enforcing code quality, reliability, and automated testing. It demonstrates core CI/CD skills required for DevOps & DevSecOps roles.
 
-**Tech Stack / Tools Used**  
-> GitHub Actions • CI/CD • Python 3.10 • PyTest • YAML Workflows • Ubuntu Runner • Requirements Management
+**Tech Stack / Tools Used**
+
+> GitHub Actions • CI/CD • Python 3.10 • PyTest • YAML Workflows • Ubuntu Runner • Requirements Management  
 
 **Screenshots**
 
-<p>
-  <img src="/Projects/assets/images/devops-ci-1.png"
-       alt="Wireshark HTTP capture – GET and 200 OK"
-       style="max-width: 100%; border-radius: 12px; margin-bottom: 0.75rem;" />
+![Wireshark HTTP capture – GET and 200 OK](assets/images/devops-ci-1.png)  
+![Wireshark TCP stream – full HTTP conversation](assets/images/devops-ci-2.png)  
+![Wireshark DNS analysis – queries and responses](assets/images/devops-ci-3.png)
 
-  <img src="/Projects/assets/images/devops-ci-2.png"
-       alt="Wireshark TCP stream – full HTTP conversation"
-       style="max-width: 100%; border-radius: 12px; margin-bottom: 0.75rem;" />
+---
 
-  <img src="/Projects/assets/images/devops-ci-3.png"
-       alt="Wireshark DNS analysis – queries and responses"
-       style="max-width: 100%; border-radius: 12px; margin-bottom: 0.75rem;" />
-</p>
-
-
-</div>
 
 
 ---
