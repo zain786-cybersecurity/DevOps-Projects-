@@ -87,7 +87,7 @@ This pipeline mimics real DevOps workflows used in production teams, enforcing c
 > GitHub Actions • CI/CD • Python 3.10 • PyTest • YAML Workflows • Ubuntu Runner • Requirements Management
 
 **Screenshots**  
-![Repository structure showing CI pipeline files](assets/images/devops-ci-1.png)  
+![Repository structure showing CI pipeline files](assets:images:devops-ci-1.png)  
 ![GitHub Actions workflow YAML](assets/images/devops-ci-2.png)  
 ![Successful CI workflow runs](assets/images/devops-ci-3.png)
 
