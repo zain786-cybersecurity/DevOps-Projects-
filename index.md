@@ -3,7 +3,7 @@ layout: default
 title: "DevOps Projects"
 ---
 
-# 🛠 DevOps & Automation – by Zain Shabaan
+# 🛠 DevOps – by Zain Shabaan
 
 ## Contact
 
@@ -16,7 +16,7 @@ title: "DevOps Projects"
 
 **Aspiring DevOps / DevSecOps Engineer** focused on:
 
-- (Add your focus areas here)
+- Building my skills and experience through projects and labs
 
 I like making infrastructure:
 
@@ -28,17 +28,17 @@ I like making infrastructure:
 
 ## ⚙️ How I Work
 
-- (Add how you approach DevOps work)
+- I design labs that are safe, isolated, and repeatable.
+I write detailed LinkedIn posts to explain:
+What I built
+Why it matters
+What I learned / would improve next time
 
 ---
 
 ## 🚀 Quick Overview
 
 - [Project 1](#project-1)
-- [Project 2](#project-2)
-- [Project 3](#project-3)
-- [Project 4](#project-4)
-- [Project 5](#project-5)
 
 ---
 
@@ -65,28 +65,36 @@ I like making infrastructure:
 ## 📦 PROJECTS – DevOps & Automation
 
 ### Project 1
-(Add description, screenshots, tools used)
+### 🚀 CI Pipeline for Python Application
+<div class="project-block">
+
+**Goal:**  
+Create a fully automated **Continuous Integration (CI)** pipeline using GitHub Actions to test and validate a Python application on every push or pull request.
+
+**What it does**  
+- Automatically triggers on commits to the `main` branch  
+- Checks out the repository code  
+- Sets up Python 3.10 in the CI runner  
+- Installs dependencies from `requirements.txt`  
+- Runs automated tests using `pytest`  
+- Shows pass/fail results directly in the "Actions" tab  
+- Ensures consistent quality and prevents broken code from being merged  
+
+**Why this matters**  
+This pipeline mimics real DevOps workflows used in production teams, enforcing code quality, reliability, and automated testing. It demonstrates core CI/CD skills required for DevOps & DevSecOps roles.
+
+**Tech Stack / Tools Used**  
+> GitHub Actions • CI/CD • Python 3.10 • PyTest • YAML Workflows • Ubuntu Runner • Requirements Management
+
+**Screenshots**  
+![Repository structure showing CI pipeline files](assets/images/devops-ci-1.png)  
+![GitHub Actions workflow YAML](assets/images/devops-ci-2.png)  
+![Successful CI workflow runs](assets/images/devops-ci-3.png)
+
+</div>
+
 
 ---
 
-### Project 2
-(Add description, screenshots, tools used)
-
----
-
-### Project 3
-(Add description, screenshots, tools used)
-
----
-
-### Project 4
-(Add description, screenshots, tools used)
-
----
-
-### Project 5
-(Add description, screenshots, tools used)
-
----
 
 If you’d like to talk about DevOps / DevSecOps roles, projects, or collaborations, I’m always happy to connect.
