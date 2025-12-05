@@ -88,9 +88,9 @@ This pipeline mimics real DevOps workflows used in production teams, enforcing c
 
 **Screenshots**
 
-![Repository structure showing CI pipeline files](assets/images/devops-ci-1.png)
-![GitHub Actions workflow YAML](assets/images/devops-ci-2.png)
-![Successful CI workflow runs](assets/images/devops-ci-3.png)
+![Screenshot 1](assets/images/devops-ci-1.png)
+![Screenshot 2](assets/images/devops-ci-2.png)
+![Screenshot 3](assets/images/devops-ci-3.png)
 
 
 </div>
