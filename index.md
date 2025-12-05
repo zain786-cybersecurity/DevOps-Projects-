@@ -93,6 +93,7 @@ This pipeline mimics real DevOps workflows used in production teams, enforcing c
 ![Screenshot 3](assets/images/devops-ci-3.png)
 
 
+
 </div>
 
 
